@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AdvancedDB2.iml" filepath="$PROJECT_DIR$/AdvancedDB2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/accessories/accessories.iml" filepath="$PROJECT_DIR$/accessories/accessories.iml" />
+      <module fileurl="file://$PROJECT_DIR$/accessories/accessories.iml" filepath="$PROJECT_DIR$/accessories/accessories.iml" />
+      <module fileurl="file://$PROJECT_DIR$/accessories/accessories.iml" filepath="$PROJECT_DIR$/accessories/accessories.iml" />
+      <module fileurl="file://$PROJECT_DIR$/accessories-debug/accessories-debug.iml" filepath="$PROJECT_DIR$/accessories-debug/accessories-debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/accessories-debug/accessories-debug.iml" filepath="$PROJECT_DIR$/accessories-debug/accessories-debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/accessories-debug/accessories-debug.iml" filepath="$PROJECT_DIR$/accessories-debug/accessories-debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/accessories-release/accessories-release.iml" filepath="$PROJECT_DIR$/accessories-release/accessories-release.iml" />
+      <module fileurl="file://$PROJECT_DIR$/accessories-release/accessories-release.iml" filepath="$PROJECT_DIR$/accessories-release/accessories-release.iml" />
+      <module fileurl="file://$PROJECT_DIR$/accessories-release/accessories-release.iml" filepath="$PROJECT_DIR$/accessories-release/accessories-release.iml" />
+      <module fileurl="file://$PROJECT_DIR$/accessories1/accessories1.iml" filepath="$PROJECT_DIR$/accessories1/accessories1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/accessories1/accessories1.iml" filepath="$PROJECT_DIR$/accessories1/accessories1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/accessories1/accessories1.iml" filepath="$PROJECT_DIR$/accessories1/accessories1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/greendao/greendao.iml" filepath="$PROJECT_DIR$/greendao/greendao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/greendao-debug/greendao-debug.iml" filepath="$PROJECT_DIR$/greendao-debug/greendao-debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orm/orm.iml" filepath="$PROJECT_DIR$/orm/orm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orm-debug/orm-debug.iml" filepath="$PROJECT_DIR$/orm-debug/orm-debug.iml" />
+    </modules>
+  </component>
+</project>

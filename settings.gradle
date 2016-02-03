@@ -1,0 +1,1 @@
+include ':app', ':greendao', ':greendao-debug', ':orm', ':orm-debug', ':accessories', ':accessories-release', ':accessories-debug', ':accessories1'
